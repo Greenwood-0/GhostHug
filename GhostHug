@@ -1,0 +1,17 @@
+{
+  "title": "A Ghost & A Hug",
+  "description": "Twitter short series by @SORAji34",
+  "artist": "Sorajirou",
+  "author": "Sorajirou",
+  "cover": "https://cdn.discordapp.com/attachments/642923679713460234/877860640885194812/covertt56.png",
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "groups": {
+        "Harmless Monsters": "/proxy/api/imgur/chapter/chgjKDc/"
+      },
+      "last_updated": "1629368736"
+    }
+  }
+}
